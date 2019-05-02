@@ -11,5 +11,5 @@ Since the conflict was irreconcilable, in August 2017, the development teams of 
 
 ### 1.2 Review of the history of Bitcoin forks
 Bitcoin Magazine has made a map for 
-![Image of History](https://github.com/zhang1ming137/PHBS_BlockChain_2018/blob/master/Transactionfee.jpg)
+![Image of History](https://github.com/zhang1ming137/PHBS_BlockChain_2018/blob/master/History.jpg)
 ## 2.The first successful Bitcoin Cash  
