@@ -38,8 +38,7 @@ BCH removed this flawed function when it was first born.
 #### Signature Technology
 The signature technology of Bitcoin is ECDSA. However, BCH will add [Schnorr signature](https://en.wikipedia.org/wiki/Schnorr_signature) technology in the May 2019 upgrade. Schnorr signature has a faster signature speed and much smaller signature data.
 ### 2.2 Price parity relationship between BCH and BTC
-#### `A Fact:`: 
-Miners typically invest in ASICs, which are hardware implementations of a
+*`A Fact:` Miners typically invest in ASICs, which are hardware implementations of a
 particular PoW algorithm. Therefore, they can easily shift or reallocate their hash
 rate between blockchains that share the same PoW algorithm. Because BCH shares the same hashing algorithms with BTC, the arbitrage will make the reward of mining between the two types of coin maintain same. This will result the price parity relationship between BCH and BTC.
 Because BCH has the same supply and decrease pattern as BTC, the number of coins reward for block creation between BCH and BTC is always equal, now it’s 12.5 per block. Based on this fact, use the historical price and hash rate data of BCH and BTC, we can get the exact reward only from the block creation per EH/s during the past year. Use the formula below:  
