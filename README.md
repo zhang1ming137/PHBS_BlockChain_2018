@@ -43,3 +43,13 @@ Because BCH has the same supply and decrease pattern as BTC, the number of coins
 Reward from Block Generation=(Price×12.5)/(Total Hash Rate of the Network)
 
 The result indicate that the arbitrage is really exist and most of the time, the reward of BTC is lower than BCH. However, if we take the transaction fee into account, the relationship will be more clear. 
+![Image of Reward](https://github.com/zhang1ming137/PHBS_BlockChain_2018/blob/master/Reward.jpg)
+ 
+Considering the generator of the block will get all the transaction fees of the recognized transactions during the period, BCH mast have a higher basic reward of mining to stay the miners. The difference between the basic reward should just be the transaction fees (transaction fees for BCH can be recognized as zero).
+Reward of BTC Block Generation+Transaction Fees=Reward of BCH Block Generation
+Meaning for the price parity relationship:absolute
+The most important thing of the relationship is the mechanism of the like the picture below. The hash rate allocation and the Relative price is measured the formation below: 
+Hash Rate Allocation=(Total Hash Rate of BTC)/(Total Hash Rate of BTC and BCH)
+Relative Price=(Exchange Rate of BTC to USD)/(Exchange Rate of BCH to USD)
+From the picture, we can conclude that the changes in the relative price will led to the reallocation of the hash rate. The change target is mentioned before.
+![Image of Hash](https://github.com/zhang1ming137/PHBS_BlockChain_2018/blob/master/Hash.jpg)
