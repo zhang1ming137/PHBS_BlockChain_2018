@@ -20,7 +20,7 @@ Bitcoin Magazine has made a map for the history of forks on Bitcoin as below.
 ### The Mechanism of BCH
 The people who are not familiar with BCH may only consider BCH as an expanded version of Bitcoin and besides the larger block size, there is nothing special for BCH. However, the most significant change brought by BCH is a decentralized development team which make the evolution of the system realizable. (https://www.bitcoin.com/what-is-bitcoin-cash/). Base on multiple independent developers’s efforts, great innovations and upgrads have been implemented on BCH. As a result, the technical differences between the two have become quite large. The summary of the key differences is below:
 
-#### Block Size
+-Block Size
 BTC still maintain the size limit of block at 1M. However, when BCH was first born, the block size was 8M, and later it was upgraded to 32M. The 32M block can handle about 10 million transactions per day, which makes it necessary for BCH to pay only 1 Satoshi/byte in any case. At the same time, 32M is not the limit of BCH. As technology advances and future demand grows, BCH will continue to increase the block size so that users can always use low rate transfers.
 #### Difficulty adjustment mechanism
 The difficulty of the BTC is fixed for the 2016 block adjustment (about 2 weeks). This means that If the hush rate has a sudden change, for example only 50% of the previous hash rate is available on the chain, miners need to tolerate for 4 weeks and during this period, lots of transactions won’t be recognized and the network will falter.
