@@ -1,5 +1,5 @@
-## 1.Introduction  
-### 1.1 The argument around the expansion of Bitcoin
+## Introduction  
+### The argument around the expansion of Bitcoin
 Different parties need to use common rules to maintain the history of the blockchain. When parties are not in agreement, alternative chains may emerge and fork happens. Forks can be classified as accidental or intentional. Accidental fork happens when two or more miners find a block at nearly the same time. The fork is resolved when subsequent block(s) are added and one of the chains becomes longer than the alternative(s). Intentional forks that modify the rules of a blockchain can be classified as hardfork and softfork. Hardfork broadens the protocol and makes previously invalid events valid. Softfork tightens the protocol and makes previously valid transactions are invalid.
 The block size of the BTC network is currently limited to 1MB. This means during congestion, as people compete to confirm their transactions as early as possible, transaction fee may become very expensive (over 30 dollars per transaction). This fact significantly limits the payment ability of Bitcoin and makes it almost impossible to embed smart contracts in Bitcoin network. 
 ![Image of Transactionfee](https://github.com/zhang1ming137/PHBS_BlockChain_2018/blob/master/Transactionfee.png)
@@ -17,7 +17,7 @@ Bitcoin Magazine has made a map for the history of forks on Bitcoin as below.
 
 
 ## Bitcoin Cash(BCH)   
-* The Mechanism of BCH
+### The Mechanism of BCH
 
 The people who are not familiar with BCH may only consider BCH as an expanded version of Bitcoin and besides the larger block size, there is nothing special for BCH. However, the most significant change brought by BCH is a decentralized development team which make the evolution of the system realizable. (https://www.bitcoin.com/what-is-bitcoin-cash/). Base on multiple independent developers’s efforts, great innovations and upgrads have been implemented on BCH. As a result, the technical differences between the two have become quite large. The summary of the key differences is below:
 
@@ -45,7 +45,7 @@ BCH removed this flawed function when it was first born.
 * Signature Technology 
 
 The signature technology of Bitcoin is ECDSA. However, BCH will add [Schnorr signature](https://en.wikipedia.org/wiki/Schnorr_signature) technology in the May 2019 upgrade. Schnorr signature has a faster signature speed and much smaller signature data.
-## Price parity relationship between BCH and BTC
+### Price parity relationship between BCH and BTC
 `A Fact:` Miners typically invest in ASICs, which are hardware implementations of a
 particular PoW algorithm. Therefore, they can easily shift or reallocate their hash
 rate between blockchains that share the same PoW algorithm[(Bissias, Levine & Thibodeau, 2018)](https://arxiv.org/pdf/1806.07189.pdf). Because BCH shares the same hashing algorithms with BTC, the arbitrage will make the reward of mining between the two types of coin maintain same. This will result the price parity relationship between BCH and BTC.
@@ -62,7 +62,7 @@ The most important thing of the relationship is the mechanism of the like the pi
 ![Image of formula2](https://github.com/zhang1ming137/PHBS_BlockChain_2018/blob/master/formula2.png)
 From the picture, we can conclude that the changes in the relative price will led to the reallocation of the hash rate. The change target is mentioned before.
 ![Image of Hash](https://github.com/zhang1ming137/PHBS_BlockChaUniqueness of BCH and introduction of applications based on BCH 
-### Why BCH is the special one?
+## Why BCH is the special one?
 After the meaningful success of BCH, a wave of forks comes. In a short time, more than 100 different fork coins of Bitcoin emerges such as Bitcoin Gold and Bitcoin Diamond. However, when the wave pass, only BCH still be active. The below characters of BCH may explain this result:
 
 * BCH represent the interests of miners
