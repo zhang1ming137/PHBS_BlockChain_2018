@@ -9,14 +9,14 @@ The miners' group supports expansion plans for their own interests. Bitcoin Core
 The view of most of the bitcoin enthusiasts are somewhere between the two extreme sides - they support expansion, and do not reject the lightning network, but they are afraid of the hard fork that may split the Bitcoin consensus.
 Since the conflict was irreconcilable, in August 2017, the development teams of Bitcoin-ABC, ViaBTC and BU designed the hardfork chain of Bitcoin--Bitcoin Cash. Bitcoin Cash is the first meaningful hard fork of Bitcoin in history. The astounding success of the BCH hardfork incentivized a wave of other forks including Bitcoin Gold and Bitcoin Diamond.
 
-### 1.2 Review of the history of Bitcoin forks
+### Review of the history of Bitcoin forks
 Bitcoin Magazine has made a map for the history of forks on Bitcoin as below. 
-### Because of the space, I summaried the items in the map in another repository of mine [Click Here](https://github.com/zhang1ming137/Blockchain)
+#### Because of the space, I summaried the items in the map in another repository of mine [Click Here](https://github.com/zhang1ming137/Blockchain)
 ![Image of History](https://github.com/zhang1ming137/PHBS_BlockChain_2018/blob/master/History.jpg)
 
 
 
-## 2.Bitcoin Cash(BCH)   
+## Bitcoin Cash(BCH)   
 ### The Mechanism of BCH
 The people who are not familiar with BCH may only consider BCH as an expanded version of Bitcoin and besides the larger block size, there is nothing special for BCH. However, the most significant change brought by BCH is a decentralized development team which make the evolution of the system realizable. (https://www.bitcoin.com/what-is-bitcoin-cash/). Base on multiple independent developers’s efforts, great innovations and upgrads have been implemented on BCH. As a result, the technical differences between the two have become quite large. The summary of the key differences is below:
 
@@ -37,7 +37,7 @@ For BCH, the capacity increase brought by SegWit can be completely ignored and t
 BCH removed this flawed function when it was first born.
 #### Signature Technology
 The signature technology of Bitcoin is ECDSA. However, BCH will add [Schnorr signature](https://en.wikipedia.org/wiki/Schnorr_signature) technology in the May 2019 upgrade. Schnorr signature has a faster signature speed and much smaller signature data.
-### 2.2 Price parity relationship between BCH and BTC
+### Price parity relationship between BCH and BTC
 `A Fact:` Miners typically invest in ASICs, which are hardware implementations of a
 particular PoW algorithm. Therefore, they can easily shift or reallocate their hash
 rate between blockchains that share the same PoW algorithm[(Bissias, Levine & Thibodeau, 2018)](https://arxiv.org/pdf/1806.07189.pdf). Because BCH shares the same hashing algorithms with BTC, the arbitrage will make the reward of mining between the two types of coin maintain same. This will result the price parity relationship between BCH and BTC.
@@ -53,9 +53,8 @@ Meaning for the price parity relationship:absolute
 The most important thing of the relationship is the mechanism of the like the picture below. The hash rate allocation and the Relative price is measured the formula below: 
 ![Image of formula2](https://github.com/zhang1ming137/PHBS_BlockChain_2018/blob/master/formula2.png)
 From the picture, we can conclude that the changes in the relative price will led to the reallocation of the hash rate. The change target is mentioned before.
-![Image of Hash](https://github.com/zhang1ming137/PHBS_BlockChain_2018/blob/master/Hash.jpg)
-## 3.Uniqueness of BCH and introduction of applications based on BCH 
-### 3.1 Why BCH is the special one?
+![Image of Hash](https://github.com/zhang1ming137/PHBS_BlockChaUniqueness of BCH and introduction of applications based on BCH 
+### Why BCH is the special one?
 After the meaningful success of BCH, a wave of forks comes. In a short time, more than 100 different fork coins of Bitcoin emerges such as Bitcoin Gold and Bitcoin Diamond. However, when the wave pass, only BCH still be active. The below characters of BCH may explain this result:
 
 * BCH represent the interests of miners
@@ -71,7 +70,7 @@ As the first meaningful success of hardfork is a priceless sybolic meaning for B
 
 The features like no congestion, low transaction fees of BCH makes it very attractive for the payment prictice. Now, there are more and more payment service provider accept BCH and the volume of transaction through BCH is growing fastly. 
 
-### 3.2 Applications of BCH
+### Applications of BCH
 In the development process of BCH for more than one year, many excellent related applications have emerged. However, for some reason, the usage of most applications is not ideal, and some even fade out of the vision of the BCH community. At the same time, some applications have not been abandoned, the creators are trying to change the version, and the number of users is constantly increasing, such as Cointext (quick transfer without Internet) , Memo（decentralized social software） and Yous（high-quality contents social network）. Whether or not these applications will continue to survive in the future, it is a meaningful attempt for BCH, because they at least let everyone see some of the potential possibilities of BCH. At the same time, these applications were developed spontaneously by community developers in the absence of funding and technical supporting. This performance has been excellent
 
 ### Cointext
