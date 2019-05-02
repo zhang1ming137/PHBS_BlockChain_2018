@@ -19,22 +19,22 @@ Bitcoin Magazine has made a map for the history of forks on Bitcoin as below.
 ## 2.Bitcoin Cash(BCH)   
 ### The Mechanism of BCH
 The people who are not familiar with BCH may only consider BCH as an expanded version of Bitcoin and besides the larger block size, there is nothing special for BCH. However, the most significant change brought by BCH is a decentralized development team which make the evolution of the system realizable. (https://www.bitcoin.com/what-is-bitcoin-cash/). Base on multiple independent developers’s efforts, great innovations and upgrads have been implemented on BCH. As a result, the technical differences between the two have become quite large. The summary of the key differences is below:
-*Block Size
+* Block Size
 BTC still maintain the size limit of block at 1M. However, when BCH was first born, the block size was 8M, and later it was upgraded to 32M. The 32M block can handle about 10 million transactions per day, which makes it necessary for BCH to pay only 1 Satoshi/byte in any case. At the same time, 32M is not the limit of BCH. As technology advances and future demand grows, BCH will continue to increase the block size so that users can always use low rate transfers.
-*Difficulty adjustment mechanism
+* Difficulty adjustment mechanism
 The difficulty of the BTC is fixed for the 2016 block adjustment (about 2 weeks). This means that If the hush rate has a sudden change, for example only 50% of the previous hash rate is available on the chain, miners need to tolerate for 4 weeks and during this period, lots of transactions won’t be recognized and the network will falter.
 The BCH initially used the EDA (Emergency Difficulty Adjustment) mechanism, which was later changed to a more reasonable DAA (difficulty adjustment algorithm) and has been used ever since. The DAA adopts a block-by-block adjustment difficulty algorithm. If the hash rate changes drastically, the DAA can be quickly adjusted. The specific algorithm can be seen in DAA LINK. DAA gurantee the stability of the block and the performance.
-*Segregated Witness(Segwit)
+* Segregated Witness(Segwit)
 [Segwit](https://en.wikipedia.org/wiki/SegWit) technology in BTC is mainly used for two purposes:
- *Proper expansion
+ * Proper expansion
 Although the block limit of BTC is 1M, with the increasing of SW adoption rate, the current average block size has reached 1.2M (if everyone uses SW, it can reach 1.4M).
- *Serving Lightning Network (LN)
+ * Serving Lightning Network (LN)
 [Bitcoin scalability problem](https://en.wikipedia.org/wiki/Bitcoin_scalability_problem) makes the deployment of [Lightning Network] (https://en.wikipedia.org/wiki/Lightning_Network) very difficult. With the use of Segwit, the problem can be "repair" but must use the SegWit-specific address.
 For BCH, the capacity increase brought by SegWit can be completely ignored and the scalability problem is expected to be solved in the upgrades in November 2019. As a result, Segwit technology is of no value to BCH, BCH has remove the technology.
-*RBF(replace by fee)
+* RBF(replace by fee)
 [RBF](https://en.bitcoin.it/wiki/Replace_by_fee) in Bitcoin means that if you make a transaction, you can use the RRF function to reissue a transaction to replace the old one and invalidate the old one. With RBF, BTC's zero confirmation transaction becomes 100% unsafe. There have been news before, someone used this feature to steal money.
 BCH removed this flawed function when it was first born.
-*Signature Technology
+* Signature Technology
 The signature technology of Bitcoin is ECDSA. However, BCH will add [Schnorr signature](https://en.wikipedia.org/wiki/Schnorr_signature) technology in the May 2019 upgrade. Schnorr signature has a faster signature speed and much smaller signature data.
 ### 2.2 Price parity relationship between BCH and BTC
 **A Fact**: Miners typically invest in ASICs, which are hardware implementations of a
