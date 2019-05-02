@@ -76,14 +76,14 @@ As the first meaningful success of hardfork is a priceless sybolic meaning for B
 The features like no congestion, low transaction fees of BCH makes it very attractive for the payment prictice. Now, there are more and more payment service provider accept BCH and the volume of transaction through BCH is growing fastly. 
 
 ### Applications of BCH
-In the development process of BCH for more than one year, many excellent related applications have emerged. However, for some reason, the usage of most applications is not ideal, and some even fade out of the vision of the BCH community. At the same time, some applications have not been abandoned, the creators are trying to change the version, and the number of users is constantly increasing, such as Cointext (quick transfer without Internet) , Memo（decentralized social software） and Yous（high-quality contents social network）. Whether or not these applications will continue to survive in the future, it is a meaningful attempt for BCH, because they at least let everyone see some of the potential possibilities of BCH. At the same time, these applications were developed spontaneously by community developers in the absence of funding and technical supporting. This performance has been excellent
+In the development process of BCH for more than one year, many excellent related applications have emerged. However, for some reason, the usage of most applications is not ideal, and some even fade out of the vision of the BCH community. At the same time, some applications have not been abandoned, the creators are trying to change the version, and the number of users is constantly increasing, such as Cointext (quick transfer without Internet) , Memo（decentralized social software） and Yous（high-quality contents social network）[(ChainNews,2018)](https://www.chainnews.com/articles/367885872901.htm). Whether or not these applications will continue to survive in the future, it is a meaningful attempt for BCH, because they at least let everyone see some of the potential possibilities of BCH. At the same time, these applications were developed spontaneously by community developers in the absence of funding and technical supporting. This performance has been excellent
 
 ### [Cointext](https://cointext.io/)
 **`Project Description:`** Cointext provide a service that using SMS to encrypt cryptocurrencies with any type of mobile phone without the Internet. Cointext does not require accounts, passwords, Apps or complex cryptographic currency addresses. Anyone can get a Cointext wallet by sending the word RECEIVE to the access number in their area, or when another user sends money to their phone.
 
 **`Current Situation:`** The project received a $600,000 Bitcoin Cash (BCH) seed fund led by Yeoman's Capital in July 2018 and currently actives in eight countries: USA, Canada, UK, Australia, South Africa, Netherlands, Sweden And Switzerland. According to the official website data, the amount of the transfer is still within a small range, and the users mostly use the service for promotion of BCH.
 
-### Memo
+### [Memo](https://pypi.org/project/bchmemo/)
 **`Project Description:`** BCH-based decentralized social network, similar to Weibo but cannot be deleted. Each piece of information will be recorded in the chain, personal information can not be reviewed through encryption, and the content is written with [op-return](https://en.bitcoin.it/wiki/OP_RETURN).
 
 **`Current Situation:`** When Memo was first launched, the page was relatively simple, with a maximum of 77 characters posted and unavailable for images and video content. Thanks to the BCH network upgrade in May 2018, after several generations of updating, Memo's current posting content can reach 217 bytes. In addition to the increased text content sent, Memo can also becomes available for animations and even videos. 
@@ -96,4 +96,4 @@ In addition, its developer Andreas Brekken recently launched a Memo Enhancement 
 
 ## 4. References
 [Bissias G, Levine B N, Thibodeau D. Using Economic Risk to Model Miner Hash Rate Allocation in Cryptocurrencies[J]. 2018.](https://arxiv.org/pdf/1806.07189.pdf)
-
+[Chainnews.(2018,July 31).A year after its birth, Bitcoin cash has already had a number of applications. Retrieved from https://www.chainnews.com/articles/367885872901.htm]()
