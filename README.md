@@ -72,15 +72,18 @@ In the development process of BCH for more than one year, many excellent related
 
 ### Cointext
 **`Project Description:`** Cointext provide a service that using SMS to encrypt cryptocurrencies with any type of mobile phone without the Internet. Cointext does not require accounts, passwords, Apps or complex cryptographic currency addresses. Anyone can get a Cointext wallet by sending the word RECEIVE to the access number in their area, or when another user sends money to their phone.
+
 **`Current Situation:`** The project received a $600,000 Bitcoin Cash (BCH) seed fund led by Yeoman's Capital in July 2018 and currently actives in eight countries: USA, Canada, UK, Australia, South Africa, Netherlands, Sweden And Switzerland. According to the official website data, the amount of the transfer is still within a small range, and the users mostly use the service for promotion of BCH.
 
 ### Memo
-**`Project Description:`** BCH-based decentralized social network, similar to Weibo but cannot be deleted. Each piece of information will be recorded in the chain, personal information can not be reviewed through encryption, and the content is written with [op-return](https://en.bitcoin.it/wiki/OP_RETURN)
+**`Project Description:`** BCH-based decentralized social network, similar to Weibo but cannot be deleted. Each piece of information will be recorded in the chain, personal information can not be reviewed through encryption, and the content is written with [op-return](https://en.bitcoin.it/wiki/OP_RETURN).
+
 **`Current Situation:`** When Memo was first launched, the page was relatively simple, with a maximum of 77 characters posted and unavailable for images and video content. Thanks to the BCH network upgrade in May 2018, after several generations of updating, Memo's current posting content can reach 217 bytes. In addition to the increased text content sent, Memo can also becomes available for animations and even videos. 
 In addition, its developer Andreas Brekken recently launched a Memo Enhancement Suite (MES) protocol that allows users to customize the Memo application. Open source enables users to update their layouts and provide the ability to "like" posts. MES can remember what users like and their profile passwords. Passwords are stored in plain text in the browser's localStorage, unless the computer has a hardware problem, the password is secure.
 
 ### Yours
 **`Project Description:`** A social network that can give BCH bonus to article posting, with the goal of improving the quality of web content and allowing users to pay for content they like. The viewer can vote for the high-quality contents with 25 cents per ticket, the money will be paid to the producer of the content and the earlier voter.
+
 **`Current Situation:`** High activity, a large number of original articles are published every day, the content is no longer limited to BCH, but most of the rewards of the related articles is in the forms of BCH. The most profitable articles have a vote of 3512 US dollars.
 
 ## 4. References
