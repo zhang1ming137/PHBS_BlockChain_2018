@@ -52,12 +52,17 @@ The result indicate that the arbitrage is really exist and most of the time, the
 ![Image of Reward](https://github.com/zhang1ming137/PHBS_BlockChain_2018/blob/master/Reward.jpg)
  
 Considering the generator of the block will get all the transaction fees of the recognized transactions during the period, BCH mast have a higher basic reward of mining to stay the miners. The difference between the basic reward should just be the transaction fees (transaction fees for BCH can be recognized as zero).
-Reward of BTC Block Generation+Transaction Fees=Reward of BCH Block Generation
-Meaning for the price parity relationship:absolute
+
+`Reward of BTC Block Generation+Transaction Fees=Reward of BCH Block Generation`
+
 The most important thing of the relationship is the mechanism of the like the picture below. The hash rate allocation and the Relative price is measured the formula below: 
 ![Image of formula2](https://github.com/zhang1ming137/PHBS_BlockChain_2018/blob/master/formula2.png)
 From the picture, we can conclude that the changes in the relative price will led to the reallocation of the hash rate. The change target is mentioned before.
-![Image of Hash](https://github.com/zhang1ming137/PHBS_BlockChain_2018/blob/master/Hash.jpg)Uniqueness of BCH and introduction of applications based on BCH 
+![Image of Hash](https://github.com/zhang1ming137/PHBS_BlockChain_2018/blob/master/Hash.jpg)
+* Significance of the realtionship:
+ *	because of the relationship, the sudden change of the relative price change will result to the reallocation of the hash rate. For BCH it’s not a problem because the DAA of BCH is update every block. However, things are different for BTC. The difficult of BTC changes every 2016 blocks which is about two weeks, during this period, the sudden and severe negative change in the relative price of BTC will result the generation time of Bitcoin increase significantly and have an impact of experience of the users. 
+ *	When congestion happens and the transaction fees goes up, mining BTC will be more profitable and drive the miners shift their hash rate to BTC mining pool. When the difficult is stable, this will increase the efficiency of BTC and cut down the transaction fees. In conclusion, the relationship makes the operating of BTC much more flexible. 
+ 
 ## Why BCH is the special one?
 After the meaningful success of BCH, a wave of forks comes. In a short time, more than 100 different fork coins of Bitcoin emerges such as Bitcoin Gold and Bitcoin Diamond. However, when the wave pass, only BCH still be active. The below characters of BCH may explain this result:
 
