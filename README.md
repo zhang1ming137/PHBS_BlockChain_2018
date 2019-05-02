@@ -40,7 +40,7 @@ The signature technology of Bitcoin is ECDSA. However, BCH will add [Schnorr sig
 particular PoW algorithm. Therefore, they can easily shift or reallocate their hash
 rate between blockchains that share the same PoW algorithm. Because BCH shares the same hashing algorithms with BTC, the arbitrage will make the reward of mining between the two types of coin maintain same. This will result the price parity relationship between BCH and BTC.
 Because BCH has the same supply and decrease pattern as BTC, the number of coins reward for block creation between BCH and BTC is always equal, now it’s 12.5 per block. Based on this fact, use the historical price and hash rate data of BCH and BTC, we can get the exact reward only from the block creation per EH/s during the past year. Use the formation below:  
-Reward from Block Generation=(Price×12.5)/(Total Hash Rate of the Network)
+![Image of formation1](https://github.com/zhang1ming137/PHBS_BlockChain_2018/blob/master/formation1.png)
 
 The result indicate that the arbitrage is really exist and most of the time, the reward of BTC is lower than BCH. However, if we take the transaction fee into account, the relationship will be more clear. 
 ![Image of Reward](https://github.com/zhang1ming137/PHBS_BlockChain_2018/blob/master/Reward.jpg)
@@ -49,8 +49,7 @@ Considering the generator of the block will get all the transaction fees of the 
 Reward of BTC Block Generation+Transaction Fees=Reward of BCH Block Generation
 Meaning for the price parity relationship:absolute
 The most important thing of the relationship is the mechanism of the like the picture below. The hash rate allocation and the Relative price is measured the formation below: 
-Hash Rate Allocation=(Total Hash Rate of BTC)/(Total Hash Rate of BTC and BCH)
-Relative Price=(Exchange Rate of BTC to USD)/(Exchange Rate of BCH to USD)
+![Image of formation2](https://github.com/zhang1ming137/PHBS_BlockChain_2018/blob/master/formation2.png)
 From the picture, we can conclude that the changes in the relative price will led to the reallocation of the hash rate. The change target is mentioned before.
 ![Image of Hash](https://github.com/zhang1ming137/PHBS_BlockChain_2018/blob/master/Hash.jpg)
 ## 3.Uniqueness of BCH and introduction of applications based on BCH 
