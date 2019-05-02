@@ -64,7 +64,7 @@ From the picture, we can conclude that the changes in the relative price will le
 *	When congestion happens and the transaction fees goes up, mining BTC will be more profitable and drive the miners shift their hash rate to BTC mining pool. When the difficult is stable, this will increase the efficiency of BTC and cut down the transaction fees. In conclusion, the relationship makes the operating of BTC much more flexible. 
  
 ## Why BCH is the special one?
-After the meaningful success of BCH, a wave of forks comes. In a short time, more than 100 different fork coins of Bitcoin emerges such as Bitcoin Gold and Bitcoin Diamond. However, when the wave pass, only BCH still be active. The below characters of BCH may explain this result:
+After the meaningful success of BCH, a wave of forks comes. In a short time, more than 100 different fork coins of Bitcoin emerges such as Bitcoin Gold and Bitcoin Diamond. However, `when the wave pass, only BCH still be active`. The below characters of BCH may explain this result:
 
 * BCH represent the interests of miners
 
