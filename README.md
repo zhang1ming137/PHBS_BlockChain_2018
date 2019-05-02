@@ -64,6 +64,12 @@ The most important advantage of BCH compared with BTC is that BCH can do all the
 Compared with Bitcoin, the biggest feature of BCH is to support large blocks. The size of the block determines the transaction capacity that can be processed. The BCC cancels the block size of 1M, which means that the transaction capacity of the BCC can be greatly increased, which perfectly solves the problem of bitcoin transaction congestion, and the transaction fee is also A large reduction has followed. At the same time, the reduction in handling fees does not lead to a decrease in the income of miners, and the reduction in transaction fees can attract more people to participate. More transactions can make up for the decline in fees and can quickly expand the occupation of new markets. . BCC will bring users a new experience with low transaction fees and fast confirmation.
 
 ### 3.2 Why BCH is the special one?
+1.	The development team of BCH represents the miners which means that the regular creation of the BCH won’t be a potential threat to the credit of BCH(lots of hardforked Bitcoins disappeared for lacking hash rate).
+2.	BCH doesn’t change the mining algorithm, which means that the former miner equipment is still available for mining BCH. That’s means very low transfer cost between Bitcoin mining pools and the BCH ones for miners, so it’s more acceptable for miners and provide a new way for miners to make profit. As a result, BCH get the support of most of the miners.
+3.	The 
+4.	The value of Bitcoin comes from it’s representation.
+5.	The 
+
 ### 3.3 Applications of BCH
 In the development process of BCH for more than one year, many excellent related applications have emerged. However, for some reason, the usage of most applications is not ideal, and some even fade out of the vision of the BCH community. At the same time, some applications have not been abandoned, the creators are trying to change the version, and the number of users is constantly increasing, such as Cointext (quick transfer without Internet) , Memo（decentralized social software） and Yous（high-quality contents social network）. Whether or not these applications will continue to survive in the future, it is a meaningful attempt for BCH, because they at least let everyone see some of the potential possibilities of BCH. At the same time, these applications were developed spontaneously by community developers in the absence of funding and technical supporting. This performance has been excellent
 
