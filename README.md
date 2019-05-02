@@ -96,4 +96,5 @@ In addition, its developer Andreas Brekken recently launched a Memo Enhancement 
 
 ## 4. References
 [Bissias G, Levine B N, Thibodeau D. Using Economic Risk to Model Miner Hash Rate Allocation in Cryptocurrencies[J]. 2018.](https://arxiv.org/pdf/1806.07189.pdf)
-[Chainnews.(2018,July 31).A year after its birth, Bitcoin cash has already had a number of applications. Retrieved from https://www.chainnews.com/articles/367885872901.htm]()
+
+[Chainnews.(2018,July 31).A year after its birth, Bitcoin cash has already had a number of applications. Retrieved from https://www.chainnews.com/articles/367885872901.htm](https://www.chainnews.com/articles/367885872901.htm)
