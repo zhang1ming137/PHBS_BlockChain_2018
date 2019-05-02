@@ -58,7 +58,7 @@ Meaning for the price parity relationship:absolute
 The most important thing of the relationship is the mechanism of the like the picture below. The hash rate allocation and the Relative price is measured the formula below: 
 ![Image of formula2](https://github.com/zhang1ming137/PHBS_BlockChain_2018/blob/master/formula2.png)
 From the picture, we can conclude that the changes in the relative price will led to the reallocation of the hash rate. The change target is mentioned before.
-![Image of Hash](https://github.com/zhang1ming137/PHBS_BlockChaUniqueness of BCH and introduction of applications based on BCH 
+![Image of Hash](https://github.com/zhang1ming137/PHBS_BlockChain_2018/blob/master/Hash.jpg)Uniqueness of BCH and introduction of applications based on BCH 
 ## Why BCH is the special one?
 After the meaningful success of BCH, a wave of forks comes. In a short time, more than 100 different fork coins of Bitcoin emerges such as Bitcoin Gold and Bitcoin Diamond. However, when the wave pass, only BCH still be active. The below characters of BCH may explain this result:
 
