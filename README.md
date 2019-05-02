@@ -31,7 +31,7 @@ Although the block limit of BTC is 1M, with the increasing of SW adoption rate, 
  * Serving Lightning Network (LN)
 [Bitcoin scalability problem](https://en.wikipedia.org/wiki/Bitcoin_scalability_problem) makes the deployment of [Lightning Network] (https://en.wikipedia.org/wiki/Lightning_Network) very difficult. With the use of Segwit, the problem can be "repair" but must use the SegWit-specific address.
 For BCH, the capacity increase brought by SegWit can be completely ignored and the scalability problem is expected to be solved in the upgrades in November 2019. As a result, Segwit technology is of no value to BCH, BCH has remove the technology.
-* RBF(replace by fee)
+* RBF(replace by fee)|
 [RBF](https://en.bitcoin.it/wiki/Replace_by_fee) in Bitcoin means that if you make a transaction, you can use the RRF function to reissue a transaction to replace the old one and invalidate the old one. With RBF, BTC's zero confirmation transaction becomes 100% unsafe. There have been news before, someone used this feature to steal money.
 BCH removed this flawed function when it was first born.
 * Signature Technology
