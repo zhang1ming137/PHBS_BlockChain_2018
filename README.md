@@ -10,7 +10,7 @@ The view of most of the bitcoin enthusiasts are somewhere between the two extrem
 Since the conflict was irreconcilable, in August 2017, the development teams of Bitcoin-ABC, ViaBTC and BU designed the hardfork chain of Bitcoin--Bitcoin Cash. Bitcoin Cash is the first meaningful hard fork of Bitcoin in history. The astounding success of the BCH hardfork incentivized a wave of other forks including Bitcoin Gold and Bitcoin Diamond.
 
 ### Review of the history of Bitcoin forks
-Bitcoin Magazine has made a map for the history of forks on Bitcoin as below. The explaination of the items in the map in another can be access through [Click Here](https://finance.yahoo.com/news/infographic-map-bitcoin-forks-150848824.html)
+### Bitcoin Magazine has made a map for the history of forks on Bitcoin as below. The explaination of the items in the map in another can be access through [Click Here](https://finance.yahoo.com/news/infographic-map-bitcoin-forks-150848824.html)
 ![Image of History](https://github.com/zhang1ming137/PHBS_BlockChain_2018/blob/master/History.jpg)
 
 
