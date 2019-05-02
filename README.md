@@ -16,7 +16,7 @@ Bitcoin Magazine has made a map for
 ### Because of the space, I summaried the items in the map in another repository of mine [Click Here](https://github.com/zhang1ming137/Blockchain)
 
 ## 2.Bitcoin Cash(BCH)   
-### `<addr>`The Mechanism of BCH
+### The Mechanism of BCH
 The people who are not familiar with BCH may only consider BCH as an expanded version of Bitcoin and besides the larger block size, there is nothing special for BCH. However, the most significant change brought by BCH is a decentralized development team which make the evolution of the system realizable. (https://www.bitcoin.com/what-is-bitcoin-cash/). Base on multiple independent developers’s efforts, great innovations and upgrads have been implemented on BCH. As a result, the technical differences between the two have become quite large. The summary of the key differences is below:
 
 #### Block Size
