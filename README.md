@@ -31,12 +31,12 @@ The BCH initially used the EDA (Emergency Difficulty Adjustment) mechanism, whic
 * Segregated Witness(Segwit)
 
 [Segwit](https://en.wikipedia.org/wiki/SegWit) technology in BTC is mainly used for two purposes:
-  * Proper expansion
+   * Proper expansion
   
-Although the block limit of BTC is 1M, with the increasing of SW adoption rate, the current average block size has reached 1.2M (if everyone uses SW, it can reach 1.4M).
-  * Serving Lightning Network (LN)
+   Although the block limit of BTC is 1M, with the increasing of SW adoption rate, the current average block size has reached 1.2M (if     everyone uses SW, it can reach 1.4M).
+   * Serving Lightning Network (LN)
   
-[Bitcoin scalability problem](https://en.wikipedia.org/wiki/Bitcoin_scalability_problem) makes the deployment of [Lightning Network](https://en.wikipedia.org/wiki/Lightning_Network) very difficult. With the use of Segwit, the problem can be "repair" but must use the SegWit-specific address.
+   [Bitcoin scalability problem](https://en.wikipedia.org/wiki/Bitcoin_scalability_problem) makes the deployment of [Lightning Network](https://en.wikipedia.org/wiki/Lightning_Network) very difficult. With the use of Segwit, the problem can be "repair" but must use the SegWit-specific address.
 For BCH, the capacity increase brought by SegWit can be completely ignored and the scalability problem is expected to be solved in the upgrades in November 2019. As a result, Segwit technology is of no value to BCH, BCH has remove the technology.
 * RBF(replace by fee)
 
