@@ -55,12 +55,28 @@ From the picture, we can conclude that the changes in the relative price will le
 ![Image of Hash](https://github.com/zhang1ming137/PHBS_BlockChain_2018/blob/master/Hash.jpg)
 ## 3.Uniqueness of BCH and introduction of applications based on BCH 
 ### 3.1 Advantages of BCH
-#### The development team is more decentralized
+#### The developing team is more decentralized
 BTC's development team is relatively single, only Bitcoin Core, and BCH's development team comprised of five technical teams: Bitcoin XT, Bitcoin Classic, Bitcoin Unlimited, Bitcoin ABC, and Bitprim, 
 which solves the problem of Bitcoin development centralization, and goes to the center. And the team can join in the follow-up.
-### The biggest advantage of Bitcoin cash is the inclusiveness of the program
+#### The biggest advantage of Bitcoin cash is the inclusiveness of the program
 The most important advantage of BCH compared with BTC is that BCH can do all the technical upgrades that BTC can do. And BCH can do very important, and very useful technology upgrades, BTC will refuse to do. This comprehensive, developed, and rapid roadmap for technology upgrades will constitute a significant advantage for BCC.
-### support large blocks, no congestion, low transaction fees
+#### support large blocks, no congestion, low transaction fees
 Compared with Bitcoin, the biggest feature of BCH is to support large blocks. The size of the block determines the transaction capacity that can be processed. The BCC cancels the block size of 1M, which means that the transaction capacity of the BCC can be greatly increased, which perfectly solves the problem of bitcoin transaction congestion, and the transaction fee is also A large reduction has followed. At the same time, the reduction in handling fees does not lead to a decrease in the income of miners, and the reduction in transaction fees can attract more people to participate. More transactions can make up for the decline in fees and can quickly expand the occupation of new markets. . BCC will bring users a new experience with low transaction fees and fast confirmation.
+
 ### 3.2 Why BCH is the special one?
 ### 3.3 Applications of BCH
+In the development process of BCH for more than one year, many excellent related applications have emerged. However, for some reason, the usage of most applications is not ideal, and some even fade out of the vision of the BCH community. At the same time, some applications have not been abandoned, the creators are trying to change the version, and the number of users is constantly increasing, such as Cointext (quick transfer without Internet) , Memo（decentralized social software） and Yous（high-quality contents social network）. Whether or not these applications will continue to survive in the future, it is a meaningful attempt for BCH, because they at least let everyone see some of the potential possibilities of BCH. At the same time, these applications were developed spontaneously by community developers in the absence of funding and technical supporting. This performance has been excellent
+
+#### Cointext
+**Project Description:** Cointext provide a service that using SMS to encrypt cryptocurrencies with any type of mobile phone without the Internet. Cointext does not require accounts, passwords, Apps or complex cryptographic currency addresses. Anyone can get a Cointext wallet by sending the word RECEIVE to the access number in their area, or when another user sends money to their phone.
+**Current Situation:** The project received a $600,000 Bitcoin Cash (BCH) seed fund led by Yeoman's Capital in July 2018 and currently actives in eight countries: USA, Canada, UK, Australia, South Africa, Netherlands, Sweden And Switzerland. According to the official website data, the amount of the transfer is still within a small range, and the users mostly use the service for promotion of BCH.
+
+#### Memo
+**Project Description:** BCH-based decentralized social network, similar to Weibo but cannot be deleted. Each piece of information will be recorded in the chain, personal information can not be reviewed through encryption, and the content is written with [op-return](https://en.bitcoin.it/wiki/OP_RETURN)
+**Current Situation:** When Memo was first launched, the page was relatively simple, with a maximum of 77 characters posted and unavailable for images and video content. Thanks to the BCH network upgrade in May 2018, after several generations of updating, Memo's current posting content can reach 217 bytes. In addition to the increased text content sent, Memo can also becomes available for animations and even videos.
+In addition, its developer Andreas Brekken recently launched a Memo Enhancement Suite (MES) protocol that allows users to customize the Memo application. Open source enables users to update their layouts and provide the ability to "like" posts. MES can remember what users like and their profile passwords. Passwords are stored in plain text in the browser's localStorage, unless the computer has a hardware problem, the password is secure.
+
+#### Yours
+**Project Description:** A social network that can give BCH bonus to article posting, with the goal of improving the quality of web content and allowing users to pay for content they like. The viewer can vote for the high-quality contents with 25 cents per ticket, the money will be paid to the producer of the content and the earlier voter.
+**Current Situation:** High activity, a large number of original articles are published every day, the content is no longer limited to BCH, but most of the rewards of the related articles is in the forms of BCH. The most profitable articles have a vote of 3512 US dollars.
+
