@@ -55,15 +55,6 @@ The most important thing of the relationship is the mechanism of the like the pi
 From the picture, we can conclude that the changes in the relative price will led to the reallocation of the hash rate. The change target is mentioned before.
 ![Image of Hash](https://github.com/zhang1ming137/PHBS_BlockChain_2018/blob/master/Hash.jpg)
 ## 3.Uniqueness of BCH and introduction of applications based on BCH 
-### 3.1 Advantages of BCH
-#### The developing team is more decentralized
-BTC's development team is relatively single, only Bitcoin Core, and BCH's development team comprised of five technical teams: Bitcoin XT, Bitcoin Classic, Bitcoin Unlimited, Bitcoin ABC, and Bitprim, 
-which solves the problem of Bitcoin development centralization, and goes to the center. And the team can join in the follow-up.
-#### The biggest advantage of Bitcoin cash is the inclusiveness of the program
-The most important advantage of BCH compared with BTC is that BCH can do all the technical upgrades that BTC can do. And BCH can do very important, and very useful technology upgrades, BTC will refuse to do. This comprehensive, developed, and rapid roadmap for technology upgrades will constitute a significant advantage for BCC.
-#### support large blocks, no congestion, low transaction fees
-Compared with Bitcoin, the biggest feature of BCH is  tosupport large blocks. The size of the block determines the transaction capacity that can be processed. The BCH cancels the block size of 1M, which means that the transaction capacity of the BCC can be greatly increased, which perfectly solves the problem of bitcoin transaction congestion, and the transaction fee is also A large reduction has followed. At the same time, the reduction in handling fees does not lead to a decrease in the income of miners, and the reduction in transaction fees can attract more people to participate. More transactions can make up for the decline in fees and can quickly expand the occupation of new markets. . BCC will bring users a new experience with low transaction fees and fast confirmation.
-
 ### 3.1 Why BCH is the special one?
 After the meaningful success of BCH, a wave of forks comes. In a short time, more than 100 different fork coins of Bitcoin emerges such as Bitcoin Gold and Bitcoin Diamond. However, when the wave pass, only BCH still be active. The below characters of BCH may explain this result:
 
