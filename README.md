@@ -58,13 +58,17 @@ From the picture, we can conclude that the changes in the relative price will le
 ### 3.1 Why BCH is the special one?
 After the meaningful success of BCH, a wave of forks comes. In a short time, more than 100 different fork coins of Bitcoin emerges such as Bitcoin Gold and Bitcoin Diamond. However, when the wave pass, only BCH still be active. The below characters of BCH may explain this result:
 
-#### 1.	BCH represent the interests of miners
+* BCH represent the interests of miners
+
 BCH use the same hashing algorithm as BTC, which means that the miners of BTC can transfer their caculation ability to BCH freely. Because the total market cap of BTC and BCH is larger than the BTC before hand fork, introduction of BCH increase the return of miners in fact. As a result, BCH get the support of miners and this gurantees the stability of BCH.
-#### 2. 	Inclusiveness carried by decentralized developing team.
+* Inclusiveness carried by decentralized developing team
+
 BTC's development team is relatively single, only Bitcoin Core, and BCH's development team comprised of five technical teams: Bitcoin XT, Bitcoin Classic, Bitcoin Unlimited, Bitcoin ABC, and Bitprim, which solves the development centralization of Bitcoin and brings the most important advantage of BCH: **BCH can do very important, and very useful technology upgrades which is not feasible for BTC**. This comprehensive, developed, and rapid roadmap for technology upgrades will constitute a significant advantage for BCH. 
-### 3.	Symbolic meaning
+* Symbolic meaning
+
 As the first meaningful success of hardfork is a priceless sybolic meaning for BCH. Although BTC has lots of drawbacks, as the first currency based on blockchain, no one can threat the dominate status of BTC. BCH has the familiar effect
-### 4. Supports of the payment service provider
+* Supports of the payment service provider
+
 The features like no congestion, low transaction fees of BCH makes it very attractive for the payment prictice. Now, there are more and more payment service provider accept BCH and the volume of transaction through BCH is growing fastly. 
 
 ### 3.2 Applications of BCH
