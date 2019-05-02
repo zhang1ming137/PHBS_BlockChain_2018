@@ -91,3 +91,5 @@ In addition, its developer Andreas Brekken recently launched a Memo Enhancement 
 **Project Description:** A social network that can give BCH bonus to article posting, with the goal of improving the quality of web content and allowing users to pay for content they like. The viewer can vote for the high-quality contents with 25 cents per ticket, the money will be paid to the producer of the content and the earlier voter.
 **Current Situation:** High activity, a large number of original articles are published every day, the content is no longer limited to BCH, but most of the rewards of the related articles is in the forms of BCH. The most profitable articles have a vote of 3512 US dollars.
 
+## 4. References
+
