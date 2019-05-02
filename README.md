@@ -13,6 +13,7 @@ Since the conflict was irreconcilable, in August 2017, the development teams of 
 Bitcoin Magazine has made a map for 
 ![Image of History](https://github.com/zhang1ming137/PHBS_BlockChain_2018/blob/master/History.jpg)
 
+### Because of the space, I summaried the items in the map in another repository of mine [Click Here](https://github.com/zhang1ming137/Blockchain)
 
 ## 2.Bitcoin Cash(BCH)   
 ### 2.1 The Mechanism of BCH
