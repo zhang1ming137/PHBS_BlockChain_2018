@@ -98,7 +98,7 @@ In addition, its developer Andreas Brekken recently launched a Memo Enhancement 
 
 **`Current Situation:`** High activity, a large number of original articles are published every day, the content is no longer limited to BCH, but most of the rewards of the related articles is in the forms of BCH. The most profitable articles have a vote of 3512 US dollars.
 
-## 4. References
+## References
 [Bissias G, Levine B N, Thibodeau D. Using Economic Risk to Model Miner Hash Rate Allocation in Cryptocurrencies[J]. 2018.](https://arxiv.org/pdf/1806.07189.pdf)
 
 Bitcoin Magazine.(2019, April 4). A Map of Bitcoin Forks. Retrieved from https://finance.yahoo.com/news/infographic-map-bitcoin-forks-150848824.html
