@@ -75,7 +75,7 @@ BTC's development team is relatively single, only Bitcoin Core, and BCH's develo
 * Symbolic meaning
 
 As the first meaningful success of hardfork is a priceless sybolic meaning for BCH. Although BTC has lots of drawbacks, as the first currency based on blockchain, no one can threat the dominate status of BTC. BCH has the familiar effect
-* Supports of the payment service provider
+* Acceptance by Retailers 
 
 The features like no congestion, low transaction fees of BCH makes it very attractive for the payment prictice. The number of online retailers accepting bitcoin cash (BCH) has swelled to more than 945 stores in the last few months[(Bitcoin.com, 2019)](https://news.bitcoin.com/over-900-retailers-worldwide-now-accept-bitcoin-cash/). Increasing acceptance of BCH by retailers will create stickiness and generate the value basis of BCH.  
 
