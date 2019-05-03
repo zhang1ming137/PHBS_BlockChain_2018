@@ -114,7 +114,8 @@ In addition, its developer Andreas Brekken recently launched a Memo Enhancement 
 **`Project Description:`** A social network that can give BCH bonus to article posting, with the goal of improving the quality of web content and allowing users to pay for content they like. The viewer can vote for the high-quality contents with 25 cents per ticket, the money will be paid to the producer of the content and the earlier voter.
 
 **`Current Situation:`** High activity, a large number of original articles are published every day, the content is no longer limited to BCH, but most of the rewards of the related articles is in the forms of BCH. The most profitable articles have a vote of 3512 US dollars.
-
+## Summary
+The emergence of BCH solve the problems caused by the 1MB size limit of Bitcoin such as congestion and high transaction fees. Many people think BCH is exactly the real Bitcoin (The intention of BTC is P2P electronic cash system) consider it's low cost. However, the most significant change carried by BCH is the rapid roadmap for technology upgrades. The protocol of BCH update every 6 months and is going to  develop the smart contract founctions and not only focus on a cash system. No one can deny that the value of BCH comes from Bitcoin, however, with topic of blockchain transfer from hype to implemention, the inclusiveness and advance of BCH will make it becomes increasingly recongnized. We can expect more about BCH in the future.
 ## References
 [Bissias G, Levine B N, Thibodeau D. Using Economic Risk to Model Miner Hash Rate Allocation in Cryptocurrencies[J]. 2018.](https://arxiv.org/pdf/1806.07189.pdf)
 
