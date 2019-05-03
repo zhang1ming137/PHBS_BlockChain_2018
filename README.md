@@ -83,7 +83,8 @@ The features like no congestion, low transaction fees of BCH makes it very attra
 In the development process of BCH for more than one year, many excellent related applications have emerged. However, for some reason, the usage of most applications is not ideal, and some even fade out of the vision of the BCH community. At the same time, some applications have not been abandoned, the creators are trying to change the version, and the number of users is constantly increasing, such as Cointext (quick transfer without Internet) , Memo（decentralized social software） and Yous（high-quality contents social network）[(ChainNews, 2018)](https://www.chainnews.com/articles/367885872901.htm). Whether or not these applications will continue to survive in the future, it is a meaningful attempt for BCH, because they at least let everyone see some of the potential possibilities of BCH. At the same time, these applications were developed spontaneously by community developers in the absence of funding and technical supporting. This performance has been excellent
 
 ### [Cointext](https://cointext.io/)
-**`Project Description:`** Cointext provide a service that using SMS to encrypt cryptocurrencies with any type of mobile phone without the Internet. Cointext does not require accounts, passwords, Apps or complex cryptographic currency addresses. Anyone can get a Cointext wallet by sending the word RECEIVE to the access number in their area, or when another user sends money to their phone.
+#### Project Description
+Cointext provide a service that using SMS to encrypt cryptocurrencies with any type of mobile phone without the Internet. Cointext does not require accounts, passwords, Apps or complex cryptographic currency addresses. Anyone can get a Cointext wallet by sending the word RECEIVE to the access number in their area, or when another user sends money to their phone.
 #### Mechanism
 * Recharge：
 
@@ -100,7 +101,8 @@ In the above scenario, CoinText first generates (or reproduces) a private key by
 
 The user edits SMS `balance` and sends the number `16666666666` to check the balance. The process is that CoinText takes the user's mobile phone number, reproduces the corresponding address through the algorithm, and then uses the blockchain get the balance.
 
-**`Current Situation:`** The project received a $600,000 Bitcoin Cash (BCH) seed fund led by Yeoman's Capital in July 2018 and currently actives in eight countries: USA, Canada, UK, Australia, South Africa, Netherlands, Sweden And Switzerland. According to the official website data, the amount of the transfer is still within a small range, and the users mostly use the service for promotion of BCH.
+#### Current Situation
+The project received a $600,000 Bitcoin Cash (BCH) seed fund led by Yeoman's Capital in July 2018 and currently actives in eight countries: USA, Canada, UK, Australia, South Africa, Netherlands, Sweden And Switzerland. According to the official website data, the amount of the transfer is still within a small range, and the users mostly use the service for promotion of BCH.
 
 ### [Memo](https://pypi.org/project/bchmemo/)
 **`Project Description:`** BCH-based decentralized social network, similar to Weibo but cannot be deleted. Each piece of information will be recorded in the chain, personal information can not be reviewed through encryption, and the content is written with [op-return](https://en.bitcoin.it/wiki/OP_RETURN).
