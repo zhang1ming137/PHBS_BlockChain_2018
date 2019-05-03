@@ -68,7 +68,7 @@ After the meaningful success of BCH, a wave of forks comes. In a short time, mor
 
 * BCH represent the interests of miners
 
-BCH use the same hashing algorithm as BTC, which means that the miners of BTC can transfer their caculation ability to BCH freely. Because the total market cap of BTC and BCH is larger than the BTC before hand fork, introduction of BCH increase the return of miners in fact. As a result, BCH get the support of miners and this gurantees the stability of BCH.
+BCH use the same hashing algorithm as BTC, which means that the miners of BTC can transfer their caculation ability to BCH freely. Because the total market cap of BTC and BCH is larger than the BTC before hand fork, introduction of BCH increase the return of miners in fact. The other fork coins based on the other hash algorithm like Bitcoin Gold (BTG) which based on GPU mining actually damage the interests of existing miners. As a result, BTG can't gurantee the effective block generation and was abandoned by the community. Supports of miners gurantees the stability of BCH.
 * Inclusiveness carried by decentralized developing team
 
 BTC's development team is relatively single, only Bitcoin Core, and BCH's development team comprised of five technical teams: Bitcoin XT, Bitcoin Classic, Bitcoin Unlimited, Bitcoin ABC, and Bitprim, which solves the development centralization of Bitcoin and brings the most important advantage of BCH: **BCH can do very important, and very useful technology upgrades which is not feasible for BTC**. This comprehensive, developed, and rapid roadmap for technology upgrades will constitute a significant advantage for BCH. 
