@@ -103,6 +103,8 @@ In addition, its developer Andreas Brekken recently launched a Memo Enhancement 
 
 Bitcoin Magazine.(2019, April 4). A Map of Bitcoin Forks. Retrieved from https://finance.yahoo.com/news/infographic-map-bitcoin-forks-150848824.html
 
+Bitcoin.com.(2019, Jan 2). Over 900 Retailers Worldwide Now Accept Bitcoin Cash. Retrieved from https://news.bitcoin.com/over-900-retailers-worldwide-now-accept-bitcoin-cash/
+
 Chainnews.(2018, July 31). A year after its birth, Bitcoin cash has already had a number of applications. Retrieved from https://www.chainnews.com/articles/367885872901.htm
 
 https://www.bitcoin.com/what-is-bitcoin-cash/ 
