@@ -79,7 +79,7 @@ As the first meaningful success of hardfork is a priceless sybolic meaning for B
 
 The features like no congestion, low transaction fees of BCH makes it very attractive for the payment prictice. Now, there are more and more payment service provider accept BCH and the volume of transaction through BCH is growing fastly. 
 
-### Applications of BCH
+## Applications of BCH
 In the development process of BCH for more than one year, many excellent related applications have emerged. However, for some reason, the usage of most applications is not ideal, and some even fade out of the vision of the BCH community. At the same time, some applications have not been abandoned, the creators are trying to change the version, and the number of users is constantly increasing, such as Cointext (quick transfer without Internet) , Memo（decentralized social software） and Yous（high-quality contents social network）[(ChainNews,2018)](https://www.chainnews.com/articles/367885872901.htm). Whether or not these applications will continue to survive in the future, it is a meaningful attempt for BCH, because they at least let everyone see some of the potential possibilities of BCH. At the same time, these applications were developed spontaneously by community developers in the absence of funding and technical supporting. This performance has been excellent
 
 ### [Cointext](https://cointext.io/)
